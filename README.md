@@ -1,4 +1,4 @@
-# Shakespeare GPT
+# Shakespeare GPT Model
 
 ## Overview
 This repository contains the code and models for training a Shakespeare text generation model using character-level embeddings. The model is trained on the works of William Shakespeare and is capable of generating text in the style of Shakespeare's plays and poems.
